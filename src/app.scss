@@ -1,3 +1,19 @@
+$title_color: darkgreen;
+$p_color: darkred;
+$btn_color: darkblue;
+
 body{
-    background-color: green;
+    background-color: lightblue;
+}
+
+h1{
+    color: $title_color;
+}
+
+p{
+    color: $p_color;
+}
+
+button{
+    background-color: $btn_color;
 }

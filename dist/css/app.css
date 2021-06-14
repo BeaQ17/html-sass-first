@@ -1,3 +1,15 @@
 body {
-  background-color: green;
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+p {
+  color: darkred;
+}
+
+button {
+  background-color: darkblue;
 }
